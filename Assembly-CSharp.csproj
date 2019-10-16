@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\actionsTest.cs" />
     <Compile Include="Assets\Scripts\laserPointer.cs" />
     <Compile Include="Assets\Scripts\scriptLaser.cs" />
+    <Compile Include="Assets\Scripts\SteamVR_TrackedController.cs" />
     <None Include="Assets\HuMan\Documentation\AnimationsStart&amp;End.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/scatemp/Downloads/fighton-usc.github.io-laser/fighton-usc.github.io-laser/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
