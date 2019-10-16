@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.lasertutorial.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\scatemp\\Downloads\\fighton-usc.github.io-laser\\fighton-usc.github.io-laser\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "LaserTutorial [Testing]"
+        }
+      }
+    }
+  ]
+}
