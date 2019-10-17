@@ -1,14 +1,14 @@
-# LaserTutorial
-Unity Laser Game
+# Fight-On : A VR based laser shooting game
+##Developed by:
 
-The first step of the project
+- Ishita Bedi
+- Namita Atri
+- Chyavana Maharshi
+- Anubhav Jindal
+- Pranshu Goyal
+- Vishwanath Hiremath
+- Samhitha Rama Prasad
+- Pranav Gupta
 
-(Video)
-
-[![Unity Laser Tutorial Game 1](https://img.youtube.com/vi/STPTfBgLi_Y/0.jpg)](https://www.youtube.com/watch?v=STPTfBgLi_Y)
-
-The second step of the project
-
-(Video)
-
-[![Unity Laser Tutorial Game 1](https://img.youtube.com/vi/7S4lrHrFrR4/0.jpg)](https://www.youtube.com/watch?v=7S4lrHrFrR4)
+## Tech stack
+Unity version 2017.1.1f1
